@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/626-nexmo.
 x-kinRank: "7"
 x-alexaRank: "33205"
 tags: Bulk
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/bulk/master/_listings/nexmo/apis.md
 specificationVersion: "0.14"
 apis: []

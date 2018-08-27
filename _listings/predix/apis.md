@@ -7,11 +7,21 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "264121"
 tags: Bulk
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/bulk/master/_listings/predix/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: VIEWS - Bulk create decks and cards
+  x-api-slug: decksbulkcreatecardsanddecks-post
+  description: Bulk create decks and cards.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https:////v1
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bulk/master/_listings/predix/decksbulkcreatecardsanddecks-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://predicthq.api.gallery.streamdata.io
